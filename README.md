@@ -1,2 +1,3 @@
 # ReactNativeProject
 Doing React Native coding
+I was trying to do a react native project where you've got to sign in sign up and then you can lock apps on your phone...
